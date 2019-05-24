@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cuongle30/Restaurant/issues"
   },
-  "homepage": "https://github.com/cuongle30/Restaurant#readme"
+  "homepage": "https://github.com/cuongle30/Restaurant#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
 }
